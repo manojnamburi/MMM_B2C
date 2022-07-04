@@ -1,0 +1,17 @@
+Package: mmmApp
+Type: Package
+Title: Run the MMM App post optimization
+Version: 5.0.0
+Author: Sai Tarun Yadalam <saitarun.yadalam@alticeusa.com>
+Maintainer: Sai Tarun Yadalam <saitarun.yadalam@alticeusa.com>
+Description: Post optimization, use this package to deploy the UI for the DataScience portal.
+License: To be used with permission from Altice DataScience Team
+        <a4DataScience@alticeusa.com>
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0), tidyverse (>= 1.2.1)
+RoxygenNote: 6.1.1
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2022-04-29 18:27:20 UTC; SYADALAM
