@@ -1,0 +1,7 @@
+"Model","Heterogeneity","Estimate","se","t_value","lower_2.5","upper_97.5"
+"M1: Naive","Random Coefficient",0.003,0.0014,2.24,0.0004,0.0057
+"M2: Search - Comp + NonBrand","Random Coefficient",0.0047,0.0015,3.2277,0.0018,0.0076
+"M3: Search - All","Random Coefficient",0.0037,0.0009,4.3295,0.002,0.0054
+"M1: Naive","Random Intercept",0.0032,0.0004,7.1501,0.0023,0.004
+"M2: Search - Comp + NonBrand","Random Intercept",0.0046,0.0004,10.7489,0.0038,0.0054
+"M3: Search - All","Random Intercept",0.0041,0.0004,10.376,0.0033,0.0049
